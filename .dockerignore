@@ -1,0 +1,6 @@
+.git
+.env
+bin
+coverage.out
+migrate
+BACKEND_JUNIOR_ROADMAP.md
